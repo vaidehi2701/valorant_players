@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:liquid_swipe/liquid_swipe.dart';
 
-import '../../themes/colors_theme.dart';
+import '../themes/colors_theme.dart';
 import 'players_controller.dart';
 
 class PlayerPage extends StatelessWidget {

@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:liquid_swipe/liquid_swipe.dart';
 
-import '../../apis/players_api.dart';
-import '../../models/players_response_model.dart';
-import '../../utils/app_utils.dart';
+import '../apis/players_api.dart';
+import '../models/players_response_model.dart';
+import '../utils/app_utils.dart';
 
 class PlayersController extends GetxController
     with GetSingleTickerProviderStateMixin {

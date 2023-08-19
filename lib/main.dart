@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'modules/agents/agents_page.dart';
+import 'modules/players_page.dart';
 import 'themes/colors_theme.dart';
 
 void main() async {
